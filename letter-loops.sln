@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "letter-loops", "letter-loops.csproj", "{9E77709C-C91C-4CE2-9437-564955AA6911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E77709C-C91C-4CE2-9437-564955AA6911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E77709C-C91C-4CE2-9437-564955AA6911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E77709C-C91C-4CE2-9437-564955AA6911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E77709C-C91C-4CE2-9437-564955AA6911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9FC5BAA-099D-4EAA-904E-775CC8A9EEA7}
+	EndGlobalSection
+EndGlobal
